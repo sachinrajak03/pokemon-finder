@@ -3,7 +3,7 @@
 Welcome to the Pokemon Finder App! This application is designed to help Pokemon enthusiasts track down and catch their favorite Pokemon with ease.
 ## Live Demo
 
-Here is the live domo of project[https://sachinrajak03.github.io/pokemon-finder/]
+Here is the live domo of project [https://sachinrajak03.github.io/pokemon-finder/]
 
 
 
